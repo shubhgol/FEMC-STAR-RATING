@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  width: 600px;
+  margin: 200px auto;
+  text-align: center;
+  font-size: 50px;
+}
+
+.App span {
+  cursor: pointer;
+}
+
+.on {
+  color: #000;
+}
+.off {
+  color: #ccc;
+}
